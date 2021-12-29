@@ -1,0 +1,389 @@
+/* *****************************************************
+
+    ** Custom Stylesheet **
+
+    Any custom styling you want to apply should be
+    defined here.
+
+***************************************************** */
+.mana_icon{
+    width: 100%;
+}
+.mana_box{
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    padding: 15px;
+    margin: 30px 0;
+}
+.mana_icon-box{
+    text-align: left;
+}
+.mana_sub-btn{
+    background-color: #0e5077;
+    color: #fff;
+    border: 1px solid #0e5077;
+}
+
+/* Mana Affiliate */
+
+
+header,
+.res-openmenu,
+.res-closemenu,
+.responsivemenu > ul > li.menu-item-has-children > a,
+.responsivemenu > ul > li ul > li a,
+.menu-sec nav > ul > li,
+.menu-sec nav > ul > li *,
+.chosen-container,
+.responsivemenu > ul > li.menu-item-has-children > a::before,
+.responsivemenu > ul > li.menu-item-has-children > a::after,
+.contact-textinfo > a.fill,
+.contact-textinfo > a,
+.chosen-container *,
+.emply-resume-list,
+.p-category,
+.p-category *,
+.job-listing,
+.job-listing *,
+.my-blog,
+.my-blog *,
+.link_widgets,
+.link_widgets *,
+.link_widgets a:before,
+.quick-select,
+.quick-select *,
+.top-compnay,
+.top-compnay *,
+.team,
+.team *,
+.sb-title::after,
+.sb-title::before,
+.sb-title,
+.emply-list,
+.emply-list *,
+.mportolio a,
+.profile-sidebar,
+.theme_btn,
+.account-popup > form button,
+.login-social a,
+.job-search form button,
+.or-browser > a,
+.scroll-to,
+.scroll-to *,
+.browse-all-cat a,
+.simple-text-block a,
+.social *,
+.job-grid,
+.job-grid *,
+.top-compnay *,
+.subscription-sec form button,
+.social-links,
+.social-links *,
+.links a,
+.find-cand form > button,
+.download-text ul *,
+.team-detail *,
+header.style4 .account-btns > li a,
+.tab-sec,
+.tab-sec *,
+.subscribe_widget form button,
+.who-am,
+.who-am *,
+#toggle-widget h2::before,
+.emlthis,
+.emlthis *,
+.pagination,
+.pagination *,
+.apply-thisjob,
+.apply-alternative a,
+.share-bar *,
+.quick-form-job form button,
+.alpha-pag *,
+.emply-text > ul > li *,
+.emply-text > ul > li:before,
+.job-single-head.style2 > a,
+.job-overview ul > li *,
+.emply-btns > a,
+.upload-info > a,
+.profile-form-edit > form button,
+.contact-edit .srch-lctn,
+.contact-edit > form button,
+.action_job *,
+.table-list-title *,
+.tree_widget-sec > ul > li > ul *,
+.contact-popup form > button,
+.change-password form button,
+.shortlists > a,
+.action-inner .download-cv a,
+.follow-companies > ul li .job-listing.wtabs .go-unfollow,
+.border-title > a,
+.border-title > a *,
+.resumeadd-form button,
+.coverletter-sec > form button,
+.blogpost,
+.blogpost *,
+.tags_widget > a,
+.sidebar-links a,
+.sidebar-links a i,
+.mb-info > h3,
+.post-hist *,
+.commentform-sec > form button,
+.service *,
+.contact-form > form button,
+.error-sec form button,
+.error-sec h6 a,
+.menu-sec,
+.top-company-sec button.slick-arrow,
+.top-company-sec button.slick-arrow:before,
+.how-to-sec,
+.how-to-sec *,
+.responsivemenu li,
+.responsivemenu {
+    -webkit-transition: all 0.4s ease 0s;
+    -moz-transition: all 0.4s ease 0s;
+    -ms-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+}
+
+.theme-list-sec {
+    float: left;
+    width: 100%;
+    position: relative;
+}
+
+.emply-list {
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #e8ecec;
+    display: table;
+    /* padding-left: 30px; */
+    /* padding-top: 25px; */
+    padding-bottom: 30px;
+    /* padding-right: 30px; */
+}
+
+.emply-list.box {
+    box-shadow: 0 10px 40px -10px rgba(0, 64, 128, .2);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border-radius: 8px;
+
+    float: left;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 30px;
+    position: relative;
+    height: 90%;
+}
+
+.theme-list-thumb {
+    float: none;
+    display: inline-block;
+}
+
+.theme-list-thumb > a {
+    float: left;
+    width: 100%;
+}
+
+.theme-list-thumb > a img {
+    float: left;
+    width: 100%;
+
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+
+}
+
+.theme-list-sec.style2 .theme-list-thumb > a img {
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border-radius: 8px;
+
+    border: 2px solid #e8ecec;
+}
+
+.emply-list.box .theme-list-thumb {
+    float: none;
+    width: auto;
+    display: inline-block;
+}
+
+.emply-list.box .theme-list-thumb a {
+    pointer-events: none;
+}
+
+.emply-list.box .theme-list-thumb img {
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border-radius: 8px;
+
+    border: 2px solid #f0f5f8;
+    width: 100%;
+}
+
+.emply-list.box .theme-list-info {
+    float: left;
+    width: 100%;
+    padding: 0;
+    padding-top: 0px;
+    padding-top: 12px;
+    position: static;
+}
+
+.theme-list-info > h6 i {
+    float: none;
+    line-height: 13px;
+    position: relative;
+    top: 2px;
+    margin-right: 3px;
+}
+
+.emply-list.box:hover {
+    -webkit-box-shadow: 0 10px 40px -10px #36d1bf9c;
+    -moz-box-shadow: 0 10px 40px -10px #36d1bf9c;
+    -ms-box-shadow: 0 10px 40px -10px #36d1bf9c;
+    -o-box-shadow: 0 10px 40px -10px #36d1bf9c;
+    box-shadow: 0 10px 40px -10px #36d1bf9c;
+    background-color: #ffffff;
+    border-color: #36d1bf;
+}
+
+.theme-list-info {
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.theme-list-info {
+    display: table-cell;
+    vertical-align: top;
+    padding-left: 17px;
+    position: relative;
+}
+
+.theme-list-info > a.btn {
+    padding: 6px 15px;
+    background-color: #0e5077;
+    color: #fff;
+    border-radius: 3px;
+}
+
+.theme-list-info > h3 {
+    float: right;
+    width: 100%;
+    font-size: 18px;
+    color: #202020;
+    font-weight: 500;
+}
+
+.theme-list-info > span {
+    float: right;
+    width: 100%;
+    font-size: 13px;
+    color: #ff3366;
+}
+
+.theme-list-info > h6 {
+    float: right;
+    width: 100%;
+    margin: 0;
+    margin-top: 0px;
+    font-size: 30px;
+    margin-top: 13px;
+    margin-bottom: 10px;
+}
+
+.theme-list-info > p {
+    float: right;
+    width: 100%;
+    font-size: 13px;
+    color: #888888;
+    line-height: 24px;
+    margin: 0;
+    margin-top: 0px;
+    margin-top: 12px;
+}
+
+.theme-list-info > h6 i {
+    float: right;
+    font-size: 20px;
+    line-height: 16px;
+    margin-right: 4px;
+    color: #999999;
+}
+
+.theme-pstn {
+    color: #8b91dd;
+    font-size: 12px;
+    padding: 0 2px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    margin: auto;
+}
+
+/* Mana affiliate select product page */
+
+.products {
+    margin: 10px 0;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.products .product {
+    padding: 1px 0 10px 0;
+    margin: 0 0 20px 0;
+    background: #fff;
+    border-radius: 3px;
+    border: 1px solid #ddd;
+}
+
+.products .product header {
+    position: relative;
+    padding: 10px 20px;
+    margin: 0 1px;
+    background: #f8f8f8;
+    border-radius: 3px 3px 0 0;
+}
+
+.products .product header span {
+    margin: 0;
+    color: #333;
+    font-size: 1.2em;
+}
+
+.products .product div.product-desc {
+    float: left;
+    width: 60%;
+    padding: 8px 14px;
+    font-size: .8em;
+}
+
+.products .product footer {
+    float: right;
+    margin: 20px 0;
+    width: 40%;
+    font-size: .8em;
+    text-align: center;
+}
+
+.products .product div.product-pricing {
+    margin-bottom: 10px;
+}
+
