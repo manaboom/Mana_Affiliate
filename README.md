@@ -39,6 +39,7 @@ Any sitebuilder product can be created in the Products section of WHMCS. Product
 _"Setup" tab, products / Services → Products / Services, product selection, "Other" tab_
 3- In the product editing section, the "Require Domain" option must be cheched.
 4- The following 4 custom fields are required:
+    
     A) Field Name: Disk
         Field Type: Drop Down
         Select Options: The amount of memory that this product (website) has.
