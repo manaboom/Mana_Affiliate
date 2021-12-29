@@ -22,23 +22,23 @@ Once uploaded go to your WHMCS administration area and find the addon manager un
 ## Configuration ##
 
 After activation of the addon, the following fields must be filled:
-"API Key": The affiliate API key.
+- "API Key": The affiliate API key.
 
-"Group Code": Create a group for the products you want to sell as sitebuilder websites and enter its code here. (This plugin only works with products of this group)
+- "Group Code": Create a group for the products you want to sell as sitebuilder websites and enter its code here. (This plugin only works with products of this group)
 
-"Default Template": First you need to enter the "API Key" once and click the "Save Changes" button to access the boom API and get a list of templates. After that, in this section, you will have a list of templates that you can choose as the default template for websites.
+- "Default Template": First you need to enter the "API Key" once and click the "Save Changes" button to access the boom API and get a list of templates. After that, in this section, you will have a list of templates that you can choose as the default template for websites.
 
-"Creat Sample Products": By checking this option, 3 sample products, having the required setup, will be created in the group that you entered in the "Group Code" section. You can edit, duplicate or delete these samples later.
+- "Creat Sample Products": By checking this option, 3 sample products, having the required setup, will be created in the group that you entered in the "Group Code" section. You can edit, duplicate or delete these samples later.
 
 ## Products ##
 Any sitebuilder product can be created in the Products section of WHMCS. Products made for this plugin must have the following features:
 
-1- The group of products must be the group entered in the "Group Code" field of the config section.
-2- The type of product must be "Shared Hosting".
-3- The "Subdomain Options" feature of the product must be set to ".ov2.com". You can find this feature from the following path:
-_"Setup" tab, products / Services → Products / Services, product selection, "Other" tab_
-3- In the product editing section, the "Require Domain" option must be cheched.
-4- The following 4 custom fields are required:
+- 1- The group of products must be the group entered in the "Group Code" field of the config section.
+- 2- The type of product must be "Shared Hosting".
+- 3- The "Subdomain Options" feature of the product must be set to ".ov2.com". You can find this feature from the following path:
+ _"Setup" tab, products / Services → Products / Services, product selection, "Other" tab_
+- 4- In the product editing section, the "Require Domain" option must be cheched.
+- 5- The following 4 custom fields are required:
     
     A) Field Name: Disk
         Field Type: Drop Down
