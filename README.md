@@ -72,7 +72,13 @@ You can edit the HTML and CSS properties of the following files in order to have
 The following link can also be helpful for translating the product names:
 https://help.whmcs.com/m/localisation/l/678185-translate-your-product-names-and-descriptions 
 
+## Our Plans ##
+
+- Personal and corporate plan <br />
+- Store plan <br />
+- Advanced plan <br />
 
 ## Wordpress Live Version ##
+
 https://manaboom.ir <br />
 https://c5m.com
