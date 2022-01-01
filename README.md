@@ -1,5 +1,7 @@
 # Manaboom Affiliate WHMCS Addon Module #
 
+
+
 ## Summary ##
 This addon module provides the basic tools needed for Mana Site Builder affiliates to sell websites with custom disk size, duration and price.
 It provides both client and admin facing user interfaces.
@@ -69,3 +71,8 @@ You can edit the HTML and CSS properties of the following files in order to have
 
 The following link can also be helpful for translating the product names:
 https://help.whmcs.com/m/localisation/l/678185-translate-your-product-names-and-descriptions 
+
+
+## Wordpress Live Version ##
+https://manaboom.ir <br />
+https://c5m.com
